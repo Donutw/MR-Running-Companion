@@ -1,4 +1,4 @@
-<img width="2549" height="1352" alt="image" src="https://github.com/user-attachments/assets/401d7168-5ebc-4e26-8c6c-a6d7d868ce42" /># MR Running Companion
+# MR Running Companion
 
 Final Year Project — Unity MR application for Meta Quest 3.
 
