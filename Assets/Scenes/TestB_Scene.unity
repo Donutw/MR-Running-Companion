@@ -7105,7 +7105,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
   m_AnchoredPosition: {x: 200, y: -75.00001}
-  m_SizeDelta: {x: 307.56, y: 0}
+  m_SizeDelta: {x: 340, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1662878619
 MonoBehaviour:
@@ -7141,7 +7141,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "sfsadasda\u5927\u82CF\u6253\u6492\n\u963F\u65AF\u987F\u6492\u65E6\u6492"
+  m_text: test text test text test text
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b67c4b60151271f4d9ffa2ccd7cea668, type: 2}
   m_sharedMaterial: {fileID: -4214781720635941934, guid: b67c4b60151271f4d9ffa2ccd7cea668,
