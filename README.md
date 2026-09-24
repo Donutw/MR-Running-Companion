@@ -4,8 +4,10 @@ Final Year Project — Unity MR application for Meta Quest 3.
 
 A mixed reality running companion system that overlays a virtual dog companion onto the real outdoor environment via Meta Quest 3 passthrough. Conducted as an A/B user study comparing a virtual companion (Mode B) against a data panel (Mode A) on companionship and motivation.
 
-Demo video: https://vimeo.com/1174433829
-Full Thesis: docs/MR_Running_Companion_Thesis.pdf
+### Project Links
+
+- [Demo Video](https://vimeo.com/1174433829)
+- [Full Thesis](docs/MR_Running_Companion_Thesis.pdf)
 
 ## Environment
 - Unity 2022.3.62f2c1
